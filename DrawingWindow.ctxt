@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DrawingWindow
+comment0.text=\n\ DrawingWindow\ creates\ the\ frame\ that\ will\ contain\ DrawingArt\ picture.\n\n\ @author\ Ursula\ Jordan\ Aquadro\n\ @version\ v1.0\n
+comment1.params=
+comment1.target=DrawingWindow()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=
+comment3.target=void\ run()
+numComments=4

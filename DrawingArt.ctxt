@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=DrawingArt
+comment0.text=\n\ DrawingSurface\ contains\ the\ code\ to\ display\ an\ image.\n\n\ @author\ Ursula\ Jordan\ Aquadro\n\ @version\ v1.0\n
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+numComments=2
